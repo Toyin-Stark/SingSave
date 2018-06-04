@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">Sing Saver</string>
+
+  <string name="talk">Klicken Sie auf Herunterladen, nachdem Sie den Video-Link eingefügt haben</string>
+  <string name="saver">Herunterladen</string>
+  <string name="downloading">Video herunterladen</string>
+  <string name="wait">Warten Sie mal</string>
+  <string name="permissionPositive">OK</string>
+  <string name="permissionNegative">Stornieren</string>
+  <string name="permissionMessage">Diese App kann ohne diese Berechtigung nicht ordnungsgemäß funktionieren</string>
+  <string name="permissionTitle">Erlaubnis benötigt</string>
+  <string name="downloadVideo">Video herunterladen</string>
+  <string name="starts">Der Download wurde gestartet</string>
+  <string name="tube">Schau Video</string>
+  <string name="fav">Favorit</string>
+  <string name="none">Kein Smule-Link gefunden</string>
+  <string name="content_image">Heruntergeladenes Bild</string>
+  <string name="content_video">Video-Taste</string>
+</resources>

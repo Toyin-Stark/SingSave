@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">Sing Saver</string>
+  <string name="talk">انقر فوق تنزيل بعد لصق رابط الفيديو</string>
+  <string name="saver">تحميل</string>
+  <string name="downloading">تنزيل الفيديو</string>
+  <string name="wait">أرجو الإنتظار</string>
+  <string name="permissionPositive">حسنا</string>
+  <string name="permissionNegative">إلغاء</string>
+  <string name="permissionMessage">لا يمكن لهذا التطبيق العمل بشكل صحيح بدون هذا الإذن</string>
+  <string name="permissionTitle">إذن مطلوب</string>
+  <string name="downloadVideo">تنزيل الفيديو</string>
+  <string name="starts">بدأ التنزيل</string>
+  <string name="tube">شاهد الفيديو</string>
+  <string name="fav">مفضل</string>
+  <string name="none">لم يتم العثور على رابط smule</string>
+  <string name="content_image">الصورة التي تم تنزيلها</string>
+  <string name="content_video">زر الفيديو</string>
+</resources>

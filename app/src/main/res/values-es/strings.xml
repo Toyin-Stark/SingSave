@@ -1,0 +1,55 @@
+
+<resources>
+  
+  
+  <string name="app_name">Sing Saver</string>
+  
+  
+  <string name="talk">Haga clic en descargar después de pegar el enlace del video</string>
+
+
+
+
+  <string name="saver">Descargar</string>
+  
+  
+  <string name="downloading">Descargar video</string>
+  
+  
+  <string name="wait">por favor espera</string>
+  
+  
+  <string name="permissionPositive">De acuerdo</string>
+  
+  
+  <string name="permissionNegative">Cancelar</string>
+  
+  
+  <string name="permissionMessage">Esta aplicación no puede funcionar correctamente sin este permiso</string>
+  
+  
+  <string name="permissionTitle">Permiso necesario</string>
+  
+  
+  <string name="downloadVideo">Descargar video</string>
+  
+  
+  <string name="starts">La descarga comenzó</string>
+  
+  
+  <string name="tube">ver video</string>
+  
+  
+  <string name="fav">favorito</string>
+  
+  
+  <string name="none">No se encontró ningún enlace smule</string>
+  
+  
+  <string name="content_image">Imagen descargada</string>
+  
+  
+  <string name="content_video">botón de video</string>
+  
+
+</resources>

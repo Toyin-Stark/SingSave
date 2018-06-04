@@ -1,0 +1,55 @@
+
+<resources>
+  
+  
+  <string name="app_name">Sing Saver</string>
+  
+  
+  <string name="talk">वीडियो लिंक पेस्ट करने के बाद डाउनलोड पर क्लिक करें</string>
+
+
+
+
+  <string name="saver">डाउनलोड</string>
+  
+  
+  <string name="downloading">वीडियो डाउनलोड करना</string>
+  
+  
+  <string name="wait">कृपया प्रतीक्षा करें</string>
+  
+  
+  <string name="permissionPositive">ठीक</string>
+  
+  
+  <string name="permissionNegative">रद्द करना</string>
+  
+  
+  <string name="permissionMessage">यह ऐप इस अनुमति के बिना ठीक से काम नहीं कर सकता है</string>
+  
+  
+  <string name="permissionTitle">अनुमति की आवश्यकता है</string>
+  
+  
+  <string name="downloadVideo">वीडियो डाउनलोड करना</string>
+  
+  
+  <string name="starts">डाउनलोड शुरू करें</string>
+  
+  
+  <string name="tube">वीडियो देखेंा</string>
+  
+  
+  <string name="fav">पसंदीदा</string>
+  
+  
+  <string name="none">कोई धुंधला लिंक नहीं मिला</string>
+  
+  
+  <string name="content_image">डाउनलोड की गई छवि</string>
+  
+  
+  <string name="content_video">वीडियो बटन</string>
+  
+
+</resources>

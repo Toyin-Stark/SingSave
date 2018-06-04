@@ -1,0 +1,52 @@
+<resources>
+  <string name="app_name">Sing Saver</string>
+  
+  
+  <string name="talk">Нажмите «Загрузить» после вставки ссылки на видео</string>
+
+
+
+
+  <string name="saver">Скачать</string>
+  
+  
+  <string name="downloading">Загрузка видео</string>
+  
+  
+  <string name="wait">Пожалуйста, подождите</string>
+  
+  
+  <string name="permissionPositive">ОК</string>
+  
+  
+  <string name="permissionNegative">Отмена</string>
+  
+  
+  <string name="permissionMessage">Это приложение не может работать должным образом без этого разрешения</string>
+  
+  
+  <string name="permissionTitle">Требуется разрешение</string>
+  
+  
+  <string name="downloadVideo">Загрузка видео</string>
+  
+  
+  <string name="starts">Начало загрузки</string>
+  
+  
+  <string name="tube">смотреть видео</string>
+  
+  
+  <string name="fav">любимый</string>
+  
+  
+  <string name="none">Ссылка на смайлик не найдена</string>
+  
+  
+  <string name="content_image">Загружено изображение</string>
+  
+  
+  <string name="content_video">кнопка видео</string>
+  
+
+</resources>

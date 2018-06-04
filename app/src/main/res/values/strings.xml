@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sing Saver</string>
+
+    <string name="talk">Click download after pasting the video link </string>
+    <string name="hints" translatable="false">https://www.twitch.tv/videos/240072870</string>
+    <string name="saver">Download</string>
+
+    <string name="downloading">Downloading Video</string>
+    <string name="wait">please wait</string>
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+
+    <string name="downloadVideo">Downloading Video</string>
+    <string name="starts">Download started</string>
+    <string name="tube">watch video</string>
+    <string name="fav">favourite</string>
+    <string name="none">No smule link found</string>
+
+    <string name="content_image">Downloaded Image</string>
+    <string name="content_video">video button</string>
+
+</resources>
